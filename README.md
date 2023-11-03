@@ -5,7 +5,7 @@ Soy una apasionada desarrolladora Front End y diseñadora gráfica con un fuerte
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,firebase,jest,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,firebase,jest,figma, angular, tailwind, ts, sass, ai)](https://skillicons.dev)
 
 # 📬 Contact:
 
